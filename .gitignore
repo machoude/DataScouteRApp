@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
 data_processing.R
 ApiKeys.R
 app.R
