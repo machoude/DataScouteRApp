@@ -3,8 +3,8 @@
 A comprehensive R Shiny application for football scouting and squad management.
 
 ## 🚀 Quick Links
-- **Live Application:** [Launch on shinyapps.io](https://machoude.shinyapps.io/datascouterapp/
-- **Documentation Site:** [View Project Website](https://yourusername.github.io/your-repo-name/)
+- **Live Application:** [Launch on shinyapps.io](https://machoude.shinyapps.io/datascouterapp)
+- **Documentation Site:** [View Project Website](https://github.com/machoude/DataScouteRApp)
 
 ## 📋 Features
 - **Roster:** View squad metrics and team averages.
