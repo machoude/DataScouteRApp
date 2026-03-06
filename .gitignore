@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data_processing.R
+ApiKeys.R
+app.R
+test.R
+www
+rsconnect
+renv
+/.quarto/
+**/*.quarto_ipynb

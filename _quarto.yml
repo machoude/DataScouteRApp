@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DataScouteR App"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Overview
+      - icon: github
+        href: https://github.com/machoude/DataScouteRApp
+      - icon: play-fill
+        text: "Launch App"
+        href: https://machoude.shinyapps.io/datascouterapp/
+
+format:
+  html:
+    theme: journal
+    toc: true

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DataScouteR: Platform Components",
+    "section": "",
+    "text": "DataScouteR is divided into five specialized modules, each designed to solve a specific problem in the scouting workflow.\n\n\nThe landing module for the application.\n\nTeam Summary: Displays the Current Ability (CA) average for the entire squad and the total player count.\nInteractive Squad List: A searchable table of all players in the selected team. Selecting a player here “primes” the rest of the application for deep analysis.\n\n\n\n\nA dual-visual approach to individual performance.\n\nAttribute Profile: A bar chart showing raw 1-20 ratings across position-specific metrics (e.g., ShotStopping for GKs or Creativity for FWs).\nGlobal Distribution: A density plot showing where the player sits compared to every other player of that position in the database.\nPercentile Ranking: A textual output identifying the player’s “Global Rank” (e.g., “Better than 85% of Midfielders”).\n\n\n\n\nA powerful multi-criteria filter for identifying new talent.\n\nPosition-Specific Logic: The filters change dynamically based on the target position.\nThreshold Filtering: Set minimum ratings for multiple attributes simultaneously.\nCSV Export: Download your custom shortlists for external reporting.\n\n\n\n\nA comparative tool for recruitment gap analysis. * Dual Selectors: Compare an “Internal Player” from your squad against an “External Target.” * Lollipop Chart: A visual gap analysis tool that highlights exactly where a target is better (or worse) than your current starter.\n\n\n\nThe most interactive component for squad building.\n\nReactive Roster: A “Sandbox” version of your team.\nTransfer Market: Search for players globally and “Add” them to your squad.\nProjected CA: A real-time calculation of your team’s average quality. If you remove a low-CA player and add a high-CA player, the dashboard updates instantly."
+  },
+  {
+    "objectID": "index.html#core-components",
+    "href": "index.html#core-components",
+    "title": "DataScouteR: Platform Components",
+    "section": "",
+    "text": "DataScouteR is divided into five specialized modules, each designed to solve a specific problem in the scouting workflow.\n\n\nThe landing module for the application.\n\nTeam Summary: Displays the Current Ability (CA) average for the entire squad and the total player count.\nInteractive Squad List: A searchable table of all players in the selected team. Selecting a player here “primes” the rest of the application for deep analysis.\n\n\n\n\nA dual-visual approach to individual performance.\n\nAttribute Profile: A bar chart showing raw 1-20 ratings across position-specific metrics (e.g., ShotStopping for GKs or Creativity for FWs).\nGlobal Distribution: A density plot showing where the player sits compared to every other player of that position in the database.\nPercentile Ranking: A textual output identifying the player’s “Global Rank” (e.g., “Better than 85% of Midfielders”).\n\n\n\n\nA powerful multi-criteria filter for identifying new talent.\n\nPosition-Specific Logic: The filters change dynamically based on the target position.\nThreshold Filtering: Set minimum ratings for multiple attributes simultaneously.\nCSV Export: Download your custom shortlists for external reporting.\n\n\n\n\nA comparative tool for recruitment gap analysis. * Dual Selectors: Compare an “Internal Player” from your squad against an “External Target.” * Lollipop Chart: A visual gap analysis tool that highlights exactly where a target is better (or worse) than your current starter.\n\n\n\nThe most interactive component for squad building.\n\nReactive Roster: A “Sandbox” version of your team.\nTransfer Market: Search for players globally and “Add” them to your squad.\nProjected CA: A real-time calculation of your team’s average quality. If you remove a low-CA player and add a high-CA player, the dashboard updates instantly."
+  },
+  {
+    "objectID": "index.html#technical-details",
+    "href": "index.html#technical-details",
+    "title": "DataScouteR: Platform Components",
+    "section": "Technical Details",
+    "text": "Technical Details\n\nScale: All metrics are normalized on a 1-20 scale.\nDatabase: Aggregated data from global divisions including GK, DF, MF, and FW groups.\nLanguage: Built entirely in R using the Shiny framework, bslib for modern UI components and the DataScouteR package."
+  }
+]
