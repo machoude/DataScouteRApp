@@ -5,7 +5,7 @@ subtitle: "A technical guide to the professional scouting interface"
 
 ## Core Components
 
-DataScouteR is divided into five specialized modules, each designed to solve a specific problem in the scouting workflow.
+DataScouteR platform is divided into five specialized modules, each designed to solve a specific problem in the scouting workflow.
 
 ### 1. Team Roster 
 The landing module for the application.
