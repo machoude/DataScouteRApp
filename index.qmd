@@ -36,7 +36,9 @@ A powerful multi-criteria filter for identifying new talent.
 
 ### 4. Head-to-Head Analysis
 A comparative tool for recruitment gap analysis.
+
 * **Dual Selectors:** Compare an "Internal Player" from your squad against an "External Target."
+
 * **Lollipop Chart:** A visual gap analysis tool that highlights exactly where a target is better (or worse) than your current starter.
 
 
